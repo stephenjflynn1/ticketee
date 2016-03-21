@@ -1,0 +1,297 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getE",
+				"getEmployees"
+			],
+			[
+				"emploe",
+				"employeeDb"
+			],
+			[
+				"get",
+				"getEmployees"
+			],
+			[
+				"res",
+				"resources"
+			],
+			[
+				"ad",
+				"addListItem"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"cle",
+				"clearPassword"
+			],
+			[
+				"_",
+				"_password"
+			],
+			[
+				"_password",
+				"_passwordInput"
+			],
+			[
+				"_pass",
+				"_passwordInput"
+			],
+			[
+				"la",
+				"lastIndexOfDot"
+			],
+			[
+				"last",
+				"lastIndexOfAt"
+			],
+			[
+				"index",
+				"indexOfAt"
+			],
+			[
+				"inde",
+				"indexOfAt"
+			],
+			[
+				"name",
+				"name-form"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "pretty",
+		"selected_items":
+		[
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/stephenflynn/Desktop/EmployeeDatabase/package.json",
+		"/Users/stephenflynn/Desktop/TicketApp/ticketee/app/controllers/projects_controller.rb",
+		"/Users/stephenflynn/Desktop/TicketApp/ticketee/config/routes.rb",
+		"/Users/stephenflynn/Desktop/TicketApp/ticketee/config/database.yml",
+		"/Users/stephenflynn/Desktop/TicketApp/ticketee/config/environments/test.rb",
+		"/Users/stephenflynn/Desktop/TicketApp/ticketee/Gemfile",
+		"/Users/stephenflynn/Desktop/TicketApp/ticketee/spec/features/creating_projects_spec.rb",
+		"/Users/stephenflynn/Desktop/EmployeeDatabase/database/errorMessages.txt",
+		"/Users/stephenflynn/Desktop/EmployeeDatabase/index.js",
+		"/Users/stephenflynn/Desktop/EmployeeDatabase/lib/employees.js",
+		"/Users/stephenflynn/Desktop/EmployeeDatabase/database/employees.json",
+		"/Users/stephenflynn/Desktop/EmployeeDatabase/public/style.css",
+		"/Users/stephenflynn/Desktop/EmployeeDatabase/public/home.html",
+		"/Users/stephenflynn/Desktop/scraper/scraper.js",
+		"/Users/stephenflynn/Desktop/mean/learnyounodeError.txt",
+		"/Users/stephenflynn/Desktop/mean/concurrency.js",
+		"/Users/stephenflynn/Desktop/node_files/server.js",
+		"/Users/stephenflynn/Desktop/node_files/nodeServer.js",
+		"/Users/stephenflynn/Desktop/DatabaseIntroduce/app/controllers/contact_controller.rb",
+		"/Users/stephenflynn/Desktop/DatabaseIntroduce/config/database.yml",
+		"/Users/stephenflynn/Desktop/DatabaseIntroduce/app/models/contact.rb",
+		"/Users/stephenflynn/Desktop/DatabaseIntroduce/db/migrate/20160309194002_add_info_to_user.rb",
+		"/Users/stephenflynn/Desktop/DatabaseIntroduce/Gemfile",
+		"/Users/stephenflynn/Desktop/link_exchange/link_site/Gemfile",
+		"/Users/stephenflynn/Desktop/link_exchange/link_site/config/environments/development.rb",
+		"/Users/stephenflynn/Desktop/link_exchange/link_site/config/routes.rb",
+		"/Users/stephenflynn/Desktop/link_exchange/link_site/app/views/layouts/application.html.erb",
+		"/Users/stephenflynn/Desktop/Career Docs/linkedin_tips",
+		"/Users/stephenflynn/Desktop/output.rb",
+		"/Users/stephenflynn/Desktop/coffee2/main.js",
+		"/Users/stephenflynn/Desktop/coffee2/coffee2",
+		"/Users/stephenflynn/Desktop/wordnik/week8.js",
+		"/Users/stephenflynn/Desktop/coffee/main.js",
+		"/Users/stephenflynn/Desktop/api.html",
+		"/Users/stephenflynn/Desktop/ahoyFolder/package.json",
+		"/Users/stephenflynn/Desktop/Development/jqueryMemory2/jquerymemory.js",
+		"/Users/stephenflynn/Desktop/Development/jqueryMemory2/style.css",
+		"/Users/stephenflynn/Desktop/Development/jqueryMemory2/main.js",
+		"/Users/stephenflynn/Desktop/Development/jqueryMemory2/index.html",
+		"/Users/stephenflynn/Desktop/Development/jQueryMemory/style.css",
+		"/Users/stephenflynn/Desktop/Development/jQueryMemory/index.html",
+		"/Users/stephenflynn/Desktop/Development/jQueryMemory/main.js",
+		"/Users/stephenflynn/Desktop/Development/week3Homework/style.css",
+		"/Users/stephenflynn/Desktop/Development/week3Homework/index.html",
+		"/Users/stephenflynn/Desktop/Development/week3Homework/index2.html",
+		"/Users/stephenflynn/Desktop/Development/week3Homework/problem.js",
+		"/Users/stephenflynn/Desktop/Development/emailValidation/SUBMIT.html",
+		"/Users/stephenflynn/Desktop/Development/emailValidation/SUBMITcode.js",
+		"/Users/stephenflynn/Desktop/testing/SUBMITcode.js",
+		"/Users/stephenflynn/Desktop/testing/SUBMIT.html",
+		"/Users/stephenflynn/Desktop/Development/FizzBuzz.txt",
+		"/Users/stephenflynn/Desktop/Development/Stephen.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"id",
+			"saveda",
+			"devise",
+			"gemfile"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Gemfile.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"",
+				"~/Desktop/Development/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 180.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
