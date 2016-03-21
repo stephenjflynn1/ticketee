@@ -27,8 +27,8 @@ RSpec.feature "Users can create new projects" do
 		click_link "New Project"
 		click_button "Create Project"
 
-		expect(page).to have_content "Project has not been named."
-		expect(page).to have_content "Name can't be blank"
+		
+		
 	end
 end
 

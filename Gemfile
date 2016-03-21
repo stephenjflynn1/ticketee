@@ -34,7 +34,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 group :test do
 	gem 'capybara', '~> 2.4'
-
+	gem 'factory_girl_rails' , '~> 4.6'
 end
 
 
