@@ -13,3 +13,4 @@ RSpec.feature "Users can create new projects" do
 		expect(page).to have_content "Project has been created."
 	end
 end
+
