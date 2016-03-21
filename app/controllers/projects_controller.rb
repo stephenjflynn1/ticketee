@@ -22,19 +22,29 @@ class ProjectsController < ApplicationController
 		@project = Project.find(params[:id])
 	end
 
-
 	def edit 
 		@project = Project.find(params[:id])
 	end
 
 	def update
 		@project = Project.find(params[:id])
-		@project.update(project_params)
 
-		flash[:notice] = "Project has been updated."
-		redirect_to @project
+		if @project.update(project_params)
+           flash[:notice] = "Project has been updated."
+		   redirect_to @project
+        else 
+        	flash.now[:alert] = "Project has not been updated."
+        	render "edit"
+        end
 	end
 
+	def destroy
+		@project = Project.find(params[:id])
+		@project.destroy
+
+		flash[:notice] = "Project has been deleted."
+		redirect_to projects_path
+	end
 
 
     private 
